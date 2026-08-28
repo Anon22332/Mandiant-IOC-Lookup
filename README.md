@@ -1,36 +1,7 @@
 # Mandiant IOC Checker
 
 <p align="center">
-  <img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
-  <defs>
-    <!-- Sweep gradient -->
-    <linearGradient id="radarSweep" x1="50%" y1="50%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#00ffcc" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background / Grid -->
-  <circle cx="50" cy="50" r="45" fill="#0d1117" stroke="#00ffcc" stroke-width="1.5" stroke-opacity="0.8"/>
-  <circle cx="50" cy="50" r="30" fill="none" stroke="#00ffcc" stroke-width="1" stroke-dasharray="3 3" stroke-opacity="0.5"/>
-  <circle cx="50" cy="50" r="15" fill="none" stroke="#00ffcc" stroke-width="1" stroke-opacity="0.3"/>
-  <line x1="50" y1="5" x2="50" y2="95" stroke="#00ffcc" stroke-width="0.8" stroke-opacity="0.3"/>
-  <line x1="5" y1="50" x2="95" y2="50" stroke="#00ffcc" stroke-width="0.8" stroke-opacity="0.3"/>
-
-  <!-- Radar Scanner Cone -->
-  <path d="M 50 50 L 85 15 A 45 45 0 0 1 95 50 Z" fill="url(#radarSweep)"/>
-  <line x1="50" y1="50" x2="85" y2="15" stroke="#00ffcc" stroke-width="2"/>
-
-  <!-- Threat Blips (Red Targets) -->
-  <!-- Threat 1 -->
-  <circle cx="70" cy="30" r="3" fill="#ff3366"/>
-  <circle cx="70" cy="30" r="6" fill="none" stroke="#ff3366" stroke-width="0.8" stroke-opacity="0.6"/>
-  <!-- Threat 2 -->
-  <circle cx="35" cy="68" r="2.5" fill="#ff3366"/>
-  <!-- Threat 3 -->
-  <circle cx="75" cy="60" r="2" fill="#ffcc00"/>
-</svg>
-"
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gcp-cloud-ops/default.svg"
        width="192"
        height="192"
        alt="Amazon Route 53 Resolver DNS Firewall">
