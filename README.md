@@ -1,6 +1,11 @@
 # Mandiant IOC Checker
 
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gcp-cloud-ops/default.svg"
+       width="192"
+       height="192"
+       alt="Amazon Route 53 Resolver DNS Firewall">
+</p>
 
 
 
